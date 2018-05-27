@@ -5,7 +5,7 @@ version = '0.1'
 
 setup(name='beyondskins.pb9.site',
       version=version,
-      description="A theme for PythonBrasil[9] website",
+      description="PythonBrasil[9] website, is an installable Diazo theme for Plone 4",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
