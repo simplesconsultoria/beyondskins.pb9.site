@@ -97,6 +97,14 @@ Credits
 
 - Andre Nogueira (agnogueira at gmail dot com).
 
+
+Amazing contributions
+---------------------
+
+- Leonardo J. Caballero G. aka macagua (leonardocaballero at gmail dot com).
+
+You can find an updated list of package contributors on https://github.com/simplesconsultoria/beyondskins.pb9.site/contributors
+
 .. _`Simples Consultoria`: http://www.simplesconsultoria.com.br/
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
 .. _`PythonBrasil [9]`: https://2013.pythonbrasil.org.br
