@@ -18,7 +18,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="beyondskins.pb9.site: Uninstall profile for Plone 4 Diazo Theme"
+      title="beyondskins.pb9.site Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the beyondskins.pb9.site package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
